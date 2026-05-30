@@ -1,7 +1,7 @@
 export const perfilData = {
     nombre: "Katheryne Flor Aimituma Ccallo",
     titulo: "Estudiante de segundo semestre | Universidad Católica San Pablo",
-    linkedin: "URL_DE_TU_LINKEDIN",
+    linkedin: "https://www.linkedin.com/in/katheryne-flor-aimituma-ccallo-52ba1a395 ",
     avatar: "img/perfil.webp",
     banner: "img/banner.avif",
     descripcion1: "Soy estudiante en la Universidad Católica San Pablo (UCSP), actualmente en segundo semestre. Me interesa el desarrollo web y las tecnologías aplicadas a la innovación.",
