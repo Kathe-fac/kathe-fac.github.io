@@ -23,7 +23,7 @@ export const cursosData = [
         enfoque: "Introducción a los fundamentos matemáticos necesarios para carreras de ingeniería y computación. Se trabajan ecuaciones, funciones, álgebra y nociones iniciales de cálculo.",
         prof: "Zulema Gutierrez",
         profId: "ana-rivera",
-        urlCurso: "#",
+        urlCurso: "https://opencw.aprende.org/courses/mathematics/",
         urlIn: "https://www.linkedin.com/in/zulema-katherine-gutierrez-ttami%C3%B1a-2640a129b/"
     },
     {
@@ -31,7 +31,7 @@ export const cursosData = [
         enfoque: "Curso base para ciencia de la computación que desarrolla lógica matemática, teoría de conjuntos, relaciones y fundamentos de grafos y demostraciones.",
         prof: "Rosmery Quispe",
         profId: "rosmery-quispe",
-        urlCurso: "#",
+        urlCurso: "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
         urlIn: "https://pe.linkedin.com/in/rosmery-violeta-quispe-zavala-58374638"
     },
     {
@@ -39,7 +39,7 @@ export const cursosData = [
         enfoque: "Introducción al desarrollo de videojuegos mediante programación, lógica interactiva y diseño de mecánicas básicas utilizando herramientas y motores gráficos.",
         prof: "Kelly Vizconde",
         profId: "kelly-vizconde",
-        urlCurso: "#",
+        urlCurso: "https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/",
         urlIn: "https://www.linkedin.com/in/kelly-vizconde-la-motta-3a57a4143/"
     },
     {
@@ -47,7 +47,7 @@ export const cursosData = [
         enfoque: "Curso orientado al fortalecimiento de la expresión oral y escrita, fomentando la redacción académica, argumentación y comunicación efectiva.",
         prof: "Angel Valdivia",
         profId: "angel-valdivia",
-        urlCurso: "#",
+        urlCurso: "https://edutin.com/curso-de-comunicacion-efectiva",
         urlIn: "https://pe.linkedin.com/in/angel-rodriguez-cruz-58b78b85"
     },
     {
@@ -55,7 +55,7 @@ export const cursosData = [
         enfoque: "Enseña técnicas de organización, hábitos de estudio, planificación y estrategias de aprendizaje para mejorar el desempeño académico universitario.",
         prof: "Kelly Vizconde",
         profId: "kelly-vizconde",
-        urlCurso: "#",
+        urlCurso: "https://ocw.mit.edu/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/resources/mit18_310f13_intro/",
         urlIn: "https://www.linkedin.com/in/kelly-vizconde-la-motta-3a57a4143/"
     },
     {
@@ -63,11 +63,10 @@ export const cursosData = [
         enfoque: "Presenta al estudiante el entorno universitario, sus recursos, normas y valores, facilitando la adaptación a la vida académica y personal.",
         prof: "Lillian Mamani",
         profId: "lillian-mamani",
-        urlCurso: "#",
+        urlCurso: "https://ocw.mit.edu/",
         urlIn: "https://www.linkedin.com/in/lilian-moscoso-prieto-53345390/" 
     }
 ];
-
 export const companerosData = [
     { nombre: "DANIELA HUAYHUA", desc: "Ccomp 2-1", urlWeb: "https://danielahuayhua-creator.github.io/mi-pagina-web/", urlIn: "https://pe.linkedin.com/in/daniela-esmeralda-huayhua-llanllaya-1ba800221" },
     { nombre: "Rodrigo Quicaño", desc: "Cccom 2-1", urlWeb: "https://noir4578.github.io/tuusuario.github.io/", urlIn: "https://www.linkedin.com/in/rodrigo-alexander-quicano-peralta-1386b82a0" },
