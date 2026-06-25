@@ -71,5 +71,5 @@ export const companerosData = [
     { nombre: "DANIELA HUAYHUA", desc: "Ccomp 2-1", urlWeb: "https://danielahuayhua-creator.github.io/mi-pagina-web/", urlIn: "https://pe.linkedin.com/in/daniela-esmeralda-huayhua-llanllaya-1ba800221" },
     { nombre: "Rodrigo Quicaño", desc: "Cccom 2-1", urlWeb: "https://noir4578.github.io/tuusuario.github.io/", urlIn: "https://www.linkedin.com/in/rodrigo-alexander-quicano-peralta-1386b82a0" },
     { nombre: "ANDREE HUAMANI", desc: "Ccomp 2-1", urlWeb: "https://andrew-oremour.github.io/", urlIn: "https://www.linkedin.com/in/andree-fabiano-huamani-pizarro-3b1293340" },
-    { nombre: "Christofer A.", desc: "Ccomp 2-1", urlWeb: "https://www.linkedin.com/in/christopher-o-m-459bb3418", urlIn: "#" }
+    { nombre: "Christofer A.", desc: "Ccomp 2-1", urlWeb: "https://wesudobones.github.io/page/", urlIn: "https://www.linkedin.com/in/christopher-o-m-459bb3418" }
 ];
