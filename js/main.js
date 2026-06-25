@@ -1,14 +1,13 @@
-// js/main.js
 import { perfilData, cursosData, companerosData } from './data.js';
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Renderizar Encabezado y Perfil
+
     const header = document.querySelector('header');
     document.getElementById('header-nombre').textContent = perfilData.nombre;
     document.getElementById('header-titulo').textContent = perfilData.titulo;
     document.getElementById('header-linkedin').href = perfilData.linkedin;
     document.getElementById('header-github').href = perfilData.github;
-    // Set banner background and avatar image
+
     if (perfilData.banner) {
         header.style.backgroundImage = `linear-gradient(rgba(99,102,241,0.45), rgba(167,139,250,0.22)), url('${perfilData.banner}')`;
     }
@@ -20,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('desc-1').textContent = perfilData.descripcion1;
     document.getElementById('desc-2').textContent = perfilData.descripcion2;
 
-    // Renderizar Cursos
+
     const cursosContainer = document.getElementById('cursos-container');
     cursosData.forEach(curso => {
         cursosContainer.innerHTML += `
@@ -38,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
     });
 
-    // Renderizar Compañeros
+
     const companerosList = document.getElementById('companeros-list');
     companerosData.forEach(comp => {
         companerosList.innerHTML += `
