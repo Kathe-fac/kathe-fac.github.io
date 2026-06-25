@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('header-nombre').textContent = perfilData.nombre;
     document.getElementById('header-titulo').textContent = perfilData.titulo;
     document.getElementById('header-linkedin').href = perfilData.linkedin;
+    document.getElementById('header-github').href = perfilData.github;
     // Set banner background and avatar image
     if (perfilData.banner) {
         header.style.backgroundImage = `linear-gradient(rgba(99,102,241,0.45), rgba(167,139,250,0.22)), url('${perfilData.banner}')`;
