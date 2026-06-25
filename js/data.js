@@ -1,7 +1,7 @@
 export const perfilData = {
     nombre: "Katheryne Flor Aimituma Ccallo",
     titulo: "Estudiante de segundo semestre | Universidad Católica San Pablo",
-    linkedin: "https://www.linkedin.com/in/katheryne-flor-aimituma-ccallo-52ba1a395 ",
+    linkedin: "https://www.linkedin.com/in/katheryne-flor-aimituma-ccallo-52ba1a395/",
     avatar: "img/perfil.webp",
     banner: "img/banner.avif",
     descripcion1: "Soy estudiante en la Universidad Católica San Pablo (UCSP), actualmente en segundo semestre. Me interesa el desarrollo web y las tecnologías aplicadas a la innovación.",
@@ -9,21 +9,21 @@ export const perfilData = {
 };
 
 export const profesoresData = [
-    { id: "ana-rivera", nombre: "Ana Rivera", urlIn: "URL_LINKEDIN_ANA_RIVERA" },
-    { id: "rosmery-quispe", nombre: "Rosmery Quispe", urlIn: "URL_LINKEDIN_ROSMERY_QUISPE" },
-    { id: "kelly-vizconde", nombre: "Kelly Vizconde", urlIn: "URL_LINKEDIN_KELLY_VIZCONDE" },
-    { id: "angel-valdivia", nombre: "Angel Valdivia", urlIn: "URL_LINKEDIN_ANGEL_VALDIVIA" },
-    { id: "lillian-mamani", nombre: "Lillian Mamani", urlIn: "URL_LINKEDIN_LILLIAN_MAMANI" }
+    { id: "ana-rivera", nombre: "Zulema Gutierrez", urlIn: "https://www.linkedin.com/in/zulema-katherine-gutierrez-ttami%C3%B1a-2640a129b/" },
+    { id: "rosmery-quispe", nombre: "Rosmery Quispe", urlIn: "https://pe.linkedin.com/in/rosmery-violeta-quispe-zavala-58374638" },
+    { id: "kelly-vizconde", nombre: "Kelly Vizconde", urlIn: "https://www.linkedin.com/in/kelly-vizconde-la-motta-3a57a4143/" },
+    { id: "angel-valdivia", nombre: "Angel Rodriguez", urlIn: "https://pe.linkedin.com/in/angel-rodriguez-cruz-58b78b85" },
+    { id: "lillian-mamani", nombre: "Lillian Mamani", urlIn: "https://www.linkedin.com/in/lilian-moscoso-prieto-53345390/" }
 ];
 
 export const cursosData = [
     {
         nombre: "Matemática I",
         enfoque: "Introducción a los fundamentos matemáticos necesarios para carreras de ingeniería y computación. Se trabajan ecuaciones, funciones, álgebra y nociones iniciales de cálculo.",
-        prof: "Ana Rivera",
+        prof: "Zulema Gutierrez",
         profId: "ana-rivera",
         urlCurso: "#",
-        urlIn: "URL_LINKEDIN_ANA_RIVERA"
+        urlIn: "https://www.linkedin.com/in/zulema-katherine-gutierrez-ttami%C3%B1a-2640a129b/"
     },
     {
         nombre: "Estructuras Discretas I",
@@ -31,7 +31,7 @@ export const cursosData = [
         prof: "Rosmery Quispe",
         profId: "rosmery-quispe",
         urlCurso: "#",
-        urlIn: "URL_LINKEDIN_ROSMERY_QUISPE"
+        urlIn: "https://pe.linkedin.com/in/rosmery-violeta-quispe-zavala-58374638"
     },
     {
         nombre: "Programación de Videojuegos",
@@ -39,7 +39,7 @@ export const cursosData = [
         prof: "Kelly Vizconde",
         profId: "kelly-vizconde",
         urlCurso: "#",
-        urlIn: "URL_LINKEDIN_KELLY_VIZCONDE"
+        urlIn: "https://www.linkedin.com/in/kelly-vizconde-la-motta-3a57a4143/"
     },
     {
         nombre: "Comunicación",
@@ -47,7 +47,7 @@ export const cursosData = [
         prof: "Angel Valdivia",
         profId: "angel-valdivia",
         urlCurso: "#",
-        urlIn: "URL_LINKEDIN_ANGEL_VALDIVIA"
+        urlIn: "https://pe.linkedin.com/in/angel-rodriguez-cruz-58b78b85"
     },
     {
         nombre: "Metodología del Estudio",
@@ -55,7 +55,7 @@ export const cursosData = [
         prof: "Kelly Vizconde",
         profId: "kelly-vizconde",
         urlCurso: "#",
-        urlIn: "URL_LINKEDIN_KELLY_VIZCONDE"
+        urlIn: "https://www.linkedin.com/in/kelly-vizconde-la-motta-3a57a4143/"
     },
     {
         nombre: "Introducción a la Vida Universitaria",
@@ -63,13 +63,13 @@ export const cursosData = [
         prof: "Lillian Mamani",
         profId: "lillian-mamani",
         urlCurso: "#",
-        urlIn: "URL_LINKEDIN_LILLIAN_MAMANI"
+        urlIn: "https://www.linkedin.com/in/lilian-moscoso-prieto-53345390/" 
     }
 ];
 
 export const companerosData = [
-    { nombre: "Daniela P.", desc: "Ccomp 2-1", urlWeb: "#", urlIn: "#" },
-    { nombre: "Rodrigo Quicaño", desc: "Cccom 2-1", urlWeb: "#", urlIn: "#" },
-    { nombre: "Diego Salas", desc: "Ccomp 2-1", urlWeb: "#", urlIn: "#" },
-    { nombre: "Christofer A.", desc: "Ccomp 2-1", urlWeb: "#", urlIn: "#" }
+    { nombre: "DANIELA HUAYHUA", desc: "Ccomp 2-1", urlWeb: "https://danielahuayhua-creator.github.io/mi-pagina-web/", urlIn: "https://pe.linkedin.com/in/daniela-esmeralda-huayhua-llanllaya-1ba800221" },
+    { nombre: "Rodrigo Quicaño", desc: "Cccom 2-1", urlWeb: "https://noir4578.github.io/tuusuario.github.io/", urlIn: "https://www.linkedin.com/in/rodrigo-alexander-quicano-peralta-1386b82a0" },
+    { nombre: "ANDREE HUAMANI", desc: "Ccomp 2-1", urlWeb: "https://andrew-oremour.github.io/", urlIn: "https://www.linkedin.com/in/andree-fabiano-huamani-pizarro-3b1293340" },
+    { nombre: "Christofer A.", desc: "Ccomp 2-1", urlWeb: "https://www.linkedin.com/in/christopher-o-m-459bb3418", urlIn: "#" }
 ];
